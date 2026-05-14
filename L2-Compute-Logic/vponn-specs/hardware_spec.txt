@@ -1,0 +1,1 @@
+VPONN v1.0 Hardware Spec: 3D Stacked Photonic Logic
