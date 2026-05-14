@@ -1,0 +1,13 @@
+{
+  "Subsystem": "A",
+  "Alias": "Zenith-Finance-UI",
+  "Permissions": [
+    "VAULT_MAILBOX_WRITE",
+    "HIERO_IDENTITY_READ",
+    "NETWORK_PROXY_L0"
+  ],
+  "ThreadIsolation": {
+    "Affinity": "Core_0",
+    "Constraint": "Zero-Impact-Gaming-Mode"
+  }
+}
